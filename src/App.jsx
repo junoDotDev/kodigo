@@ -3,7 +3,7 @@ import React from 'react'
 export default function App() {
   return (
 	<div>
-	  <p></p>
+	  <p class="text-red-500">test</p>
 	</div>
   )
 }
